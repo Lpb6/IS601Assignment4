@@ -6,7 +6,7 @@ Django project for uploading a txt file and displaying it backward on a separate
 * 2 - create a virtual environment and activate
 *  - conda create --name <my-env> --file requirements.txt
 *  - conda activate <my-env>
-* 3 - cd into project "A4"
+* 3 - cd into project
 * 5 - python manage.py runserver
 
 # Project Features:
